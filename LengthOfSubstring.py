@@ -1,5 +1,5 @@
 
-# Program to count the non-repeating number in a word.
+# Program to count the non-repeating letter in a word.
 
 st = "geeksforeeks"
 arr = {}
