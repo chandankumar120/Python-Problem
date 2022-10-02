@@ -1,3 +1,5 @@
+# Convert number to word upto four digit
+
 l1 = [
     'zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight',
     'Nine', 'ten', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen',
